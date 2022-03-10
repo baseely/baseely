@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm @baseely, software engineer at IBM working on a variety of Open Source technologies from Middleware to Cloud native services.
 
 <!--
 **baseely/baseely** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
