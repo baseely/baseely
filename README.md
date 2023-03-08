@@ -2,7 +2,7 @@
 
 I'm Baseely, an experienced OSS Engineer with a passion for open source software and creating high-quality solutions that help people solve complex problems. 
 
-#### 🚀 My technical skills include:
+#### 🚀 technical skills include:
 
 - 💻 **Software Engineering:** Expertise in software development principles and practices, with experience building applications using languages such as Python, Java and Go.
 - ☁️ **Cloud Native Solution Architecture:** Proficiency in designing and implementing cloud-native solutions using open source and Red Hat technologies such as Kubernetes, OpenShift, and Istio.
