@@ -20,6 +20,6 @@ I love breaking and building lab systems, embracing the chaos to create resilien
 Feel free to reach out:
 - 📧 Email: https://elinux.org/User:Baseely
 - 🌐 LinkedIn: https://www.linkedin.com/in/shadybaseely
-- 🐦 Twitter: @Shady_Baseely
+- 𝕏 Twitter: [@Shady_Baseely](https://x.com/Shady_Baseely/)
 
 Thanks for visiting my GitHub profile — let's build something amazing together! 
