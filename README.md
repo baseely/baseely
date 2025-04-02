@@ -12,9 +12,9 @@ I'm an experienced **Open Source Engineer** passionate about **AI-driven cloud s
 
 ## 🚀 About Me
 
-🔹 **Cloud & AI Architect | OSS Engineer | MLOps & Data Engineering Specialist**  
+🔹 **Cloud & AI Architect | OSS Engineer**  
 🔹 **Expert in AI-driven cloud-native and data-intensive solutions**  
-🔹 **Building, breaking, and optimizing complex distributed systems**  
+🔹 **Building, breaking and optimizing complex distributed systems**  
 
 ---
 
