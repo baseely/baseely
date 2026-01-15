@@ -13,11 +13,11 @@ Architecting AI-powered cloud solutions with focus on Kubernetes orchestration, 
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=kubernetes,docker,aws,azure,gcp,terraform,ansible" />
+<img src="https://skillicons.dev/icons?i=kubernetes,docker,aws,azure,gcp,terraform,ansible&theme=dark" />
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch,fastapi" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,fastapi&theme=dark" />
 </p>
 
 ---
