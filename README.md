@@ -25,7 +25,7 @@ Architecting AI-powered cloud solutions with focus on Kubernetes orchestration, 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=baseely&theme=radical" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=baseely&theme=radical" width="48%" />
 </p>
 
 <!--
